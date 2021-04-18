@@ -32,6 +32,7 @@ public class Main {
     private static void nomer4(String word, int x){
         for (int y=0;y<x;y++){
             System.out.println(word);
+
         }
     }
 
